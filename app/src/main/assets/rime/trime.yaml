@@ -1445,7 +1445,7 @@ preset_keyboards:
     - {label: '弓', long_click: '(', click: n}
     - {label: '一', long_click: ')', click: m}
     - {long_click: '<', click: ','}
-    - {click: BackSpace, long_click: Escape, width: 10}
+    - {click: BackSpace, width: 10}
     - {click: Hide}
     - {click: Shift_L, send_bindings: false}
     - {click: Keyboard_symbols, long_click: Keyboard_number}
